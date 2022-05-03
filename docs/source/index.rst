@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Willkommen zur Hilfe von WorkWallis.ch!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
